@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/dex-ovo-studio/dex-ovo-studio/main/assets/studio-banner.svg" alt="D.E.X Studio — Software, design & experience" width="100%">
+<img src="assets/banner.svg" alt="DEX-Rider — D.E.X Studio" width="100%">
 
 # D.E.X Rider
 **戴克车机 · Motorcycle dashboard & voice interaction**
