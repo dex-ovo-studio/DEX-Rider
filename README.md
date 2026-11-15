@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Rovelio — D.E.X Studio" width="100%">
+<img src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-Rider/main/assets/banner.svg" alt="Rovelio — D.E.X Studio" width="100%">
 
 # Rovelio · 驭途
 **摩托车智能座舱 · Motorcycle dashboard & voice interaction**
 
 Raspberry Pi · **Rebuild 01** · 开发原型 / Development prototype
 
-[开发状态 / Development status](STATUS.md) · [项目目录 / Project directory](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
+[开发状态 / Development status](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md) · [项目目录 / Project directory](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
 
 </div>
 
@@ -26,8 +26,8 @@ Rovelio is a motorcycle dashboard prototype exploring music, location, maps and 
 
 **Rebuild 01 · 开发原型 / Development prototype**
 
-目前没有公开安装包或车机镜像，公开发行时间尚未确定。请通过[项目状态](STATUS.md)了解开发进度。  
-No public installer or device image is available, and no public release date is set. Follow the [project status](STATUS.md) for development progress.
+目前没有公开安装包或车机镜像，公开发行时间尚未确定。请通过[项目状态](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md)了解开发进度。  
+No public installer or device image is available, and no public release date is set. Follow the [project status](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md) for development progress.
 
 ## 功能与进展 · Features & progress
 
