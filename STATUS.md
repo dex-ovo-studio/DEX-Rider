@@ -1,21 +1,20 @@
-# Rovelio（驭途）· 开发状态 / Development status
+<p><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-Rider/main/assets/ui/status.svg" alt="Rovelio · 驭途 · 版本与开发状态 / Status" width="100%"></p>
 
-**阶段 / Stage: 开发原型 / Development prototype · Rebuild 01**
+[← Rovelio · 驭途](https://github.com/dex-ovo-studio/DEX-Rider) · [所有软件 / All software](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
 
-| 里程碑 / Milestone | 进度 / Progress |
+**🟠 开发中 · 暂无公开镜像 / In development · No public image**  
+Rebuild 01 · 开发原型 / Development prototype
+
+| 内容 / Area | 状态 / Status |
 | :--- | :--- |
-| Rebuild 01 界面运行 / Interface running | 历史记录已确认 / Confirmed in historical records |
-| 设备音乐播放 / Device music playback | 用户设备反馈已确认 / Confirmed by user device feedback |
-| 手动唤醒与语音报时 / Manual activation and spoken time | 历史设备日志已确认 / Confirmed by historical device logs |
-| 自动关键词唤醒 / Automatic wake-word detection | 存在识别问题，待改进 / Recognition problems remain |
-| 音乐、导航、天气语音控制 / Voice control for music, navigation and weather | 未完成 / Incomplete |
-| 实车环境与完整设备验收 / Real-world vehicle and full device validation | 待验证 / Pending |
-| 公开发行包 / Public release package | 尚无 / None |
+| 界面与音乐 / Interface & music | 已有设备演示 / Demonstrated on hardware |
+| 手动语音交互 / Manual voice interaction | 已演示语音报时 / Spoken time query demonstrated |
+| 关键词唤醒 / Wake-word activation | 可靠性待改进 / Reliability needs improvement |
+| 音乐、导航、天气语音控制 / Voice control | 尚未完成 / Incomplete |
+| 实车环境验证 / Real-world ride validation | 待完成 / Pending |
+| 公开发行 / Public release | 时间未定 / No date announced |
 
-记录日期 / Evidence date: **2026-09-06**  
-整理日期 / Documentation reviewed: **2026-11-15**
+公开发行时间尚未确定。上表仅表示已记录的开发进展，不代表完整功能已可公开使用。  
+No public release date is set. Recorded progress does not mean the full product is ready for public use.
 
-进度依据历史开发记录整理，可能落后于设备当前状态。本次未连接车机、修改设备或重新测试。  
-Status is reconstructed from historical development records and may lag the current device. This update did not connect to, modify or retest the device.
-
-[返回项目 / Overview](README.md)
+<sub>进度记录 / Progress as of 2026-09-06</sub>
