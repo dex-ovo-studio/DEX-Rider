@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="DEX-Rider — D.E.X Studio" width="100%">
+<img src="assets/banner.svg" alt="Rovelio — D.E.X Studio" width="100%">
 
-# D.E.X Rider
-**戴克车机 · Motorcycle dashboard & voice interaction**
+# Rovelio · 驭途
+**摩托车智能座舱 · Motorcycle dashboard & voice interaction**
 
 Raspberry Pi · **Rebuild 01** · 开发原型 / Development prototype
 
@@ -15,9 +15,12 @@ Raspberry Pi · **Rebuild 01** · 开发原型 / Development prototype
 
 ## 项目介绍 · Overview
 
-D.E.X Rider 是面向摩托车场景的车机原型，探索音乐、位置、地图与“戴克”语音交互。界面以 720 × 720 布局为基础，保留 D.E.X 的橙色视觉元素。
+**Rovelio（驭途）是 D.E.X Studio 旗下的车机项目。**  
+**Rovelio is a motorcycle dashboard project by D.E.X Studio.**
 
-D.E.X Rider is a motorcycle dashboard prototype exploring music, location, maps and the “戴克” voice assistant. Its interface uses a 720 × 720 layout with D.E.X orange accents.
+Rovelio 是面向摩托车场景的车机原型，探索音乐、位置、地图与“戴克”语音交互。界面以 720 × 720 布局为基础，保留 D.E.X 的橙色视觉元素。
+
+Rovelio is a motorcycle dashboard prototype exploring music, location, maps and the “戴克” voice assistant. Its interface uses a 720 × 720 layout with D.E.X orange accents.
 
 ## 版本与下载 · Releases & downloads
 
