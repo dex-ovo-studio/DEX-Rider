@@ -1,25 +1,23 @@
-<p><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-Rider/main/assets/ui/v2/hero.svg" alt="Rovelio · 驭途 — 为每段骑行，探索更清晰的交互。 / Raspberry Pi · 开发中 / In development · 暂无公开镜像" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-Rider/main/assets/ui/v2/action-1.svg" alt="查看开发状态 / Progress &amp; availability" width="34.4444%"></a><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-Rider/main/assets/ui/v2/action-2.svg" alt="所有软件 / Software status &amp; downloads" width="31.1111%"></a><a href="https://github.com/dex-ovo-studio"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-Rider/main/assets/ui/v2/action-3.svg" alt="D.E.X Studio / Meet the studio" width="34.4444%"></a><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-Rider/main/assets/ui/v2/content.svg" alt="骑行信息 · 音乐体验 · 地图方向 · 语音交互" width="100%"><a href="https://github.com/dex-ovo-studio/DEX-Studio-Software-Status"><img align="top" src="https://raw.githubusercontent.com/dex-ovo-studio/DEX-Rider/main/assets/ui/v2/footer.svg" alt="D.E.X Studio · 所有软件 / All software" width="100%"></a></p>
+# Rovelio · 驭途
 
-<details>
-<summary>展开使用说明与链接 / Read details & links</summary>
+**为每段骑行，探索更清晰的交互。**  
+Exploring a clearer view of the ride.
 
-<details>
-<summary>文字版介绍与常用链接 / Accessible overview & links</summary>
+Raspberry Pi · 开发中 / In development · Rebuild 01
 
-Raspberry Pi · 开发中 / In development · 暂无公开镜像
+[查看开发进展 / Progress](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md) · [所有软件 / Software hub](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
 
-- **骑行信息**：探索位置、天气与信息卡片。 Location, weather and dashboard cards.
-- **音乐体验**：围绕骑行场景组织播放交互。 Music interactions for the ride.
-- **地图方向**：探索地图搜索与路线预览。 Map search and route previews.
-- **语音交互**：逐步完善唤醒与语音指令。 Wake-word and voice interaction research.
+## 产品方向 / Direction
 
-- [查看开发状态 / Progress & availability](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md)
-- [所有软件 / Software status & downloads](https://github.com/dex-ovo-studio/DEX-Studio-Software-Status)
-- [D.E.X Studio / Meet the studio](https://github.com/dex-ovo-studio)
+Rovelio 探索摩托车机的界面、音乐、导航与语音交互。  
+Rovelio explores a motorcycle dashboard with music, maps and voice interaction.
 
-</details>
+现有记录包括设备上的界面与音乐演示，以及手动语音报时。关键词唤醒可靠性仍需改进；音乐、导航与天气的语音控制尚未完成，实车验证待进行。  
+The interface, music and a manual spoken-time interaction have been demonstrated. Wake-word reliability, wider voice control and real-world ride validation remain in progress.
 
-公开发行时间尚未确定；功能完成情况请以[开发状态](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md)为准。  
-No public release date is set. See the development status for completed and pending work.
+## 可用性 / Availability
 
-</details>
+**暂无公开镜像，发行日期未定。** 状态以[开发记录](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md)为准。  
+No public image or announced release date. See the [progress record](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md).
+
+[问题与建议 / Feedback](https://github.com/dex-ovo-studio/DEX-Rider/issues) · [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
