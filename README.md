@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+  <img src="assets/header-light.svg" alt="D.E.X STUDIO · DEX-Rider" width="960">
+</picture>
+
 # Rovelio · 驭途
 
 **为每段骑行，探索更清晰的交互。**  
@@ -21,3 +27,6 @@ The interface, music and a manual spoken-time interaction have been demonstrated
 No public image or announced release date. See the [progress record](https://github.com/dex-ovo-studio/DEX-Rider/blob/main/STATUS.md).
 
 [问题与建议 / Feedback](https://github.com/dex-ovo-studio/DEX-Rider/issues) · [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
+
+
+
