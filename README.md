@@ -19,7 +19,7 @@ Rovelio 探索摩托车机的界面、音乐、导航与语音交互。
 Rovelio explores a motorcycle dashboard with music, maps and voice interaction.
 
 现有记录包括设备上的界面与音乐演示，以及手动语音报时。关键词唤醒可靠性仍需改进；音乐、导航与天气的语音控制尚未完成，实车验证待进行。  
-The interface, music and a manual spoken-time interaction have been demonstrated. Wake-word reliability, wider voice control and real-world ride validation remain in progress.
+The interface and music were demonstrated on the device, along with a manually triggered spoken time query. Wake-word reliability needs improvement. Voice controls for music, navigation and weather are incomplete, and road testing is pending.
 
 ## 可用性 / Availability
 
