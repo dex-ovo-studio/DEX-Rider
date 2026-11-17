@@ -11,14 +11,14 @@ body:
     id: version
     attributes:
       label: "产品与版本 / Product and version"
-      placeholder: "例如 Navio 1.0.0-beta.7"
+      placeholder: "例如 Rovelio 构建号或提交 / e.g. Rovelio build ID or commit"
     validations:
       required: true
   - type: input
     id: platform
     attributes:
       label: "系统与设备 / OS and device"
-      placeholder: "例如 Windows 11 x64"
+      placeholder: "例如车机型号与系统版本 / e.g. dashboard model and OS version"
     validations:
       required: true
   - type: textarea
