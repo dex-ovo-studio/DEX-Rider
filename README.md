@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-  <img src="assets/header-light.svg" alt="D.E.X Studio · Rovelio" width="960">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dex-ovo-studio/Rovelio/main/assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dex-ovo-studio/Rovelio/main/assets/header-light.svg">
+  <img src="https://raw.githubusercontent.com/dex-ovo-studio/Rovelio/main/assets/header-light.svg" alt="D.E.X Studio · Rovelio" width="960">
 </picture>
 
 # Rovelio · 驭途
@@ -23,7 +23,7 @@ The interface, music and a manual spoken-time interaction have been demonstrated
 
 ## 可用性 / Availability
 
-**暂无公开镜像，发行日期未定。** 状态以[开发记录](https://github.com/dex-ovo-studio/Rovelio/blob/main/STATUS.md)为准。  
+**暂无公开镜像，发行日期未定。** 状态以[开发记录](https://github.com/dex-ovo-studio/Rovelio/blob/main/STATUS.md)为准。<br>
 No public image or announced release date. See the [progress record](https://github.com/dex-ovo-studio/Rovelio/blob/main/STATUS.md).
 
 [问题与建议 / Feedback](https://github.com/dex-ovo-studio/Rovelio/issues) · [← D.E.X STUDIO](https://github.com/dex-ovo-studio)
